@@ -2,7 +2,7 @@
 
 ### 목차
 
-* [1편](https://github.com/pjt3591oo/python_tutorial_10_minutes/tree/master/1%ED%8E%B8)
+* [1편](https://github.com/pjt3591oo/pandas_tutorial_10_minutes/tree/master/1%ED%8E%B8)
 
 ```
 
@@ -17,7 +17,7 @@
 · 연산 Operations
 ```
 
-* [2편](https://github.com/pjt3591oo/python_tutorial_10_minutes/tree/master/2%ED%8E%B8)
+* [2편](https://github.com/pjt3591oo/pandas_tutorial_10_minutes/tree/master/2%ED%8E%B8)
 
 ```
 
